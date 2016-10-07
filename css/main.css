@@ -27,12 +27,13 @@ body {
 
 li {
   list-style-type: none;
+  text-decoration: none;
   display: inline-block;
   color: #0074d9;
 }
 
 a:hover {
-  color:#fff;
+  color: #fff;
   background-color: #0074d9;
 }
 
@@ -45,7 +46,7 @@ header {
 }
 
 header {
-  background-color:#e2e2e2;
+  background-color: #e2e2e2;
 }
 
 nav {
