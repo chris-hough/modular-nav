@@ -66,6 +66,10 @@ h1 {
     text-align: left;
   }
 
+  .unit {
+    padding: 0;
+  }
+
   nav {
     text-align: right;
   }
