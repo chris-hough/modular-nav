@@ -27,8 +27,11 @@ body {
 
 li {
   list-style-type: none;
-  text-decoration: none;
   display: inline-block;
+}
+
+a {
+  text-decoration: none;
   color: #0074d9;
 }
 
@@ -38,7 +41,7 @@ a:hover {
 }
 
 ul {
-  padding-left: 0;
+  padding: 0;
 }
 
 header {
@@ -55,7 +58,6 @@ nav {
 
 h1 {
   text-align: center;
-  padding-bottom: 1em;
 }
 
 @media only screen and (min-width: 38em) {
